@@ -25,7 +25,7 @@ The project demonstrates the use of **Excel-based analytical tools** for perform
 
 ---
 
-## 📘 Documentation
+## Documentation
 **File:** `Bare-International-Analysis-Documentation.pdf`
 
 - Describes data cleaning, grading logic, and pivot table setup.  
@@ -34,7 +34,7 @@ The project demonstrates the use of **Excel-based analytical tools** for perform
 
 ---
 
-## ℹ️ Additional Info
+## Additional Info
 - **Created Using:** Microsoft Excel  
 - **Developed By:** *Swetha.K*  
 - **Contact:** (LinkedIn –https://www.linkedin.com/in/swethaK2002)  
